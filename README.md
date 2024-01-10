@@ -4,8 +4,9 @@ o termo "BFF" refere-se a "Backend For Frontend" (Backend para o Frontend).
 Em termos simples, imagine seu sistema como um edifício: o Backend é a estrutura principal e o Frontend é a fachada visível. 
 
 O BFF atua como um "arquiteto de interação" entre essas partes.
+<br />
 <img src="https://samnewman.io/pattern-img/bff/team-ownership.jpg" />
-
+<br />
 Backend (Servidor): Gerencia dados, lógica de negócios e interações com o banco de dados.
 
 Frontend (Cliente): Lida com a interface do usuário e interações visíveis.
